@@ -1,13 +1,15 @@
 # WICS wednesdays web project
 To be worked on atleast twice a week!
+
 ---
 
 ## Phases for designing and developing a website:
   * Phase 1: Plan
   * Phase 2: Design
   * Phase 3: Develop
-  
+
 **Note** this is just a guide line to help you get started.
+
 ---
 ### Phase 1: Planning
 
@@ -33,5 +35,6 @@ Try to answer some of these questions in order to help you plan for your website
   **Note** Make a time line it helps keep you motivated and keeps you moving forward to completion
 
 Please keep in mind to make sure you make time to work on uour projects
+
 ---
 ### Phase 2: Design
