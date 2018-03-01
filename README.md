@@ -6,6 +6,7 @@ To be worked on atleast twice a week!
   * Phase 1: Plan
   * Phase 2: Design
   * Phase 3: Develop
+  
 **Note** this is just a guide line to help you get started.
 ---
 ### Phase 1: Planning
